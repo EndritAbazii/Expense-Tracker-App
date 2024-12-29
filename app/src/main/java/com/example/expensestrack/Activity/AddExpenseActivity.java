@@ -41,7 +41,7 @@ public class AddExpenseActivity extends AppCompatActivity {
         db = new DatabaseHelper(this);
         userId = getIntent().getIntExtra("USER_ID", -1);
 
-        // Check if we are editing an existing expense
+
         if (getIntent().hasExtra("EXPENSE_ID")) {
             expenseId = getIntent().getIntExtra("EXPENSE_ID", -1);
             loadExpenseDetails(expenseId);
