@@ -47,6 +47,12 @@ The Expense Tracker App is developed to simplify financial management for users 
 - **Database:** SQLite
 - **Development Environment:** Android Studio
 
+## Contributors
+
+- Yll Pajaziti
+- Sumeja Veseli
+- Leonita Bahtiri
+- Endrit Abazi
 ---
 
 Feel free to explore the repository to learn more about the implementation details and contribute to its development.
