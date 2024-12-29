@@ -43,7 +43,7 @@ The Expense Tracker App is developed to simplify financial management for users 
 
 ## Technologies Used
 
-- **Programming Language:** Java/Kotlin
+- **Programming Language:** Java
 - **Database:** SQLite
 - **Development Environment:** Android Studio
 
