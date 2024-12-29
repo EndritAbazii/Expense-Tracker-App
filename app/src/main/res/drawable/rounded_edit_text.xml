@@ -2,13 +2,13 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
 
-    <!-- The fill color of the box (white) -->
+    
     <solid android:color="@android:color/white" />
 
-    <!-- How round should the corners be? -->
+    
     <corners android:radius="16dp" />
 
-    <!-- Optional padding inside the shape so text doesn't sit right against the edge -->
+   
     <padding
         android:left="12dp"
         android:top="12dp"
